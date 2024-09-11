@@ -1,0 +1,7 @@
+draw tiles
+skip turn
+add tiles to game
+touch to select tiles
+discard/trade tiles
+quit game (restart)
+
