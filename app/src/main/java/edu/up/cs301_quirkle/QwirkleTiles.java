@@ -18,6 +18,7 @@ public class QwirkleTiles extends SurfaceView {
 
         super(context, attrs);
         setWillNotDraw(false);
+
         darkGreenPaint = new Paint();
         darkGreenPaint.setColor(0xFF119722);  //a bright red
         darkGreenPaint.setStyle(Paint.Style.STROKE);
