@@ -116,14 +116,14 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_weight="1"
-            tools:srcCompat="@drawable/Draw" />
+            tools:srcCompat="@drawable/draw" />
 
         <ImageView
             android:id="@+id/imageView6"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_weight="1"
-            app:srcCompat="@drawable/Discard" />
+            app:srcCompat="@drawable/discard" />
 
     </LinearLayout>
 </LinearLayout>
