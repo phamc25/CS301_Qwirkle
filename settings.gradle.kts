@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CS301_Quirkle"
+rootProject.name = "CS301_Qwirkle"
 include(":app")
